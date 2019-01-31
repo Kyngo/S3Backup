@@ -9,7 +9,7 @@ if [ $UNAME == "Darwin" ]; then
 fi
 
 TODAY=`${DATEAPP} +%F`
-MONTHAGO=`${DATEAPP} +%F --date="30 days ago"`
+MONTHAGO=`${DATEAPP} +%F --date="15 days ago"`
 # echo $TODAY
 DIRS=`cat ./directories`
 
