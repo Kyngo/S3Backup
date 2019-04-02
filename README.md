@@ -13,3 +13,7 @@ Easy as pie! 🥧
 
 `0 0 * * * root test -x /opt/s3backup/backup.sh && bash /opt/s3backup/backup.sh`
 `0 0 * * * root test -x /opt/s3backup/delete.sh && bash /opt/s3backup/delete.sh`
+
+## Restoring
+
+There is a script called "backup.sh" which will assist you on restoring a lost project.
