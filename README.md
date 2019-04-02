@@ -16,4 +16,4 @@ Easy as pie! 🥧
 
 ## Restoring
 
-There is a script called "backup.sh" which will assist you on restoring a lost project.
+There is a script called `restore.sh` which will assist you on restoring a lost project.
